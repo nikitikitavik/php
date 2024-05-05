@@ -1,0 +1,5 @@
+AddHandler fcgid-script .php .phtml .html .htm
+FCGIWrapper /var/www/php-bin/u2629257/grigorev.tech/php .php
+FCGIWrapper /var/www/php-bin/u2629257/grigorev.tech/php .phtml
+FCGIWrapper /var/www/php-bin/u2629257/grigorev.tech/php .html
+FCGIWrapper /var/www/php-bin/u2629257/grigorev.tech/php .htm
